@@ -10,6 +10,10 @@ namespace Lesson4
     {
         static void Main(string[] args)
         {
+            switch (switch_on)
+            {
+                default:
+            }
         }
     }
 }
